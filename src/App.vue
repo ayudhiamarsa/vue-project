@@ -1,5 +1,5 @@
 <template>
   <h1>
-    hgjhbsdjkhd
+    Welcome!
   </h1>
 </template>
